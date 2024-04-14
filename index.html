@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Precios</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Selecciona una plataforma:</h2>
+    <select id="plataforma" class="select">
+      <option value="instagram">Instagram</option>
+      <option value="Facebook">Facebook</option>
+    </select>
+
+    <h2>Selecciona una métrica:</h2>
+    <select id="metrica" class="select">
+      <option value="seguidores">Seguidores</option>
+      <option value="likes-post">Likes en Publicaciones</option>
+      <option value="likes-reels">Likes en Reels</option>
+      <option value="likes-historias">Likes en Historias</option>
+    </select>
+
+    <h2>Selecciona el tipo de servicio:</h2>
+    <select id="tipo-servicio" class="select">
+      <!-- Options will be dynamically populated based on user selection -->
+    </select>
+
+    <h2>Precios:</h2>
+    <div id="precios" class="precios">
+      <!-- Precios se mostrarán aquí -->
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  margin-top: 20px;
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.select {
+  width: 100%;
+  margin-bottom: 10px; /* Añadido margen inferior para todos los selects */
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.select:focus {
+  border-color: #0056b3;
+}
+
+.precios {
+  margin-left: 20px; /* Añadido margen izquierdo a la lista de precios */
+}
+
+ul {
+  padding: 0;
+  list-style: none; /* Eliminados los puntos de la lista */
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #007bff;
+}
