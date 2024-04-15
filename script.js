@@ -24,24 +24,7 @@ const servicios = {
       }
     },
     'likes-post': {
-      '🔴 7631 - 🥰 Instagram Likes | Max 500K | No Refill ⛔️ | 30K Per Day': {
-        '500 likes': 170,
-        '1000 likes': 340,
-        '2000 likes': 680,
-        '4000 likes': 1370,
-        '5000 likes': 1710,
-        '10000 likes': 3420,
-        '15000 likes': 5130
-      },
-      '🔴 7680 - ❤️ Instagram Likes | Max 500K | Mix Users | 30K Per Hours': {
-        '500 likes': 130,
-        '1000 likes': 270,
-        '2000 likes': 540,
-        '4000 likes': 1080,
-        '5000 likes': 1350,
-        '10000 likes': 2700,
-        '15000 likes': 4040
-      },
+
       '🔴 7423 ❤️ 💃 Instagram Likes LatinoAmerica | R30 | %100 Usuario Reales | 2K Por Hora✔️': {
         '500 likes': 580,
         '1000 likes': 1150,
