@@ -19,7 +19,7 @@ const servicios = {
         '10000 seguidores': 11820,
         '15000 seguidores': 17730
       },
-      '🔵 ID 368 - Seguidores reales de Instagram - Max 100k (SEGUIDORESLATINO.COM)': {
+      '🔵 ID 368 - Seguidores reales de Instagram - Max 100k (SEGUIDORESLATINO.COM) USAR ESTE - YA LO PUSE EN EL FLYER': {
         '500 seguidores': 900,
         '1000 seguidores': 1790,
         '2000 seguidores': 3580,
