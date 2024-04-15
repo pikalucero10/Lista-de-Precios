@@ -1,25 +1,7 @@
 const servicios = {
   instagram: {
     seguidores: {
-      '🔴 7626 😍 Premium Instagram Followers | Max 5M | Lifetime Refill ♻️ | 20K Per Day': {
-        '500 seguidores': 760,
-        '1000 seguidores': 1530,
-        '2000 seguidores': 3060,
-        '4000 seguidores': 4890,
-        '5000 seguidores': 6120,
-        '10000 seguidores': 12240,
-        '15000 seguidores': 18350
-      },
-      '🔴 7679 😍 Instagram Followers + Likes %15+Story views %20+Profile views %20 | Lifetime Refill': {
-        '500 seguidores': 740,
-        '1000 seguidores': 1480,
-        '2000 seguidores': 2960,
-        '4000 seguidores': 4730,
-        '5000 seguidores': 5910,
-        '10000 seguidores': 11820,
-        '15000 seguidores': 17730
-      },
-      '🔵 ID 368 - Seguidores reales de Instagram - Max 100k (SEGUIDORESLATINO.COM) USAR ESTE - YA LO PUSE EN EL FLYER': {
+      '🔵 ID 368 - Seguidores reales de Instagram - Max 100k (YA LO PUSE EN EL FLYER) ✔️': {
         '500 seguidores': 900,
         '1000 seguidores': 1790,
         '2000 seguidores': 3580,
@@ -28,14 +10,17 @@ const servicios = {
         '10000 seguidores': 17920,
         '15000 seguidores': 26880
       },
-      '🔵 ID 3149 - Instagram - Seguidores con apariencia real - R365 - Max. 200K': {
-        '500 seguidores': 470,
-        '1000 seguidores': 930,
-        '2000 seguidores': 1870,
-        '4000 seguidores': 3730,
-        '5000 seguidores': 4670,
-        '10000 seguidores': 9330,
-        '15000 seguidores': 14000
+      '🔴 7422 - 💃 Instagram Seguidores LatinoAmerica | %100 Usuario Reales': {
+        '525 seguidores': 4190,
+        '1050 seguidores': 8380,
+        '2100 seguidores': 16770,
+        '5250 seguidores': 41920
+      },
+      '🔴 6279 - 🙂 Seguidores - Instagram | 100% Real Usuarios Premium | Max 1K |  Incremento Natural': {
+        '500 seguidores': 2250,
+        '1000 seguidores': 4500,
+        '2000 seguidores': 9000,
+        '5000 seguidores': 22500
       }
     },
     'likes-post': {
@@ -57,7 +42,7 @@ const servicios = {
         '10000 likes': 2700,
         '15000 likes': 4040
       },
-      '🔴 7423 ❤️ 💃 Instagram Likes LatinoAmerica | R30 | %100 Usuario Reales | 2K Por Hora': {
+      '🔴 7423 ❤️ 💃 Instagram Likes LatinoAmerica | R30 | %100 Usuario Reales | 2K Por Hora✔️': {
         '500 likes': 580,
         '1000 likes': 1150,
         '2000 likes': 2310,
@@ -66,7 +51,7 @@ const servicios = {
         '10000 likes': 7980,
         '15000 likes': 11970
       },
-      '🔵 ID 277 - Instagram - Me gusta 100% Reales - Baratos - Calidad Media': {
+      '🔵 ID 277 - Instagram - Me gusta 100% Reales - Baratos - Calidad Media✔️': {
         '500 likes': 580,
         '1000 likes': 1150,
         '2000 likes': 2310,
@@ -74,6 +59,13 @@ const servicios = {
         '5000 likes': 3990,
         '10000 likes': 7980,
         '15000 likes': 11970
+      },
+      '🔴 6276 ❤️ Me Gusta - Instagram | 100% Real Usuarios Premium | MAXIMO 1K | (BARATO Y PREMIUM)✔️': {
+        '100 likes': 70,
+        '300 likes': 220,
+        '500 likes': 370,
+        '750 likes': 560,
+        '1000 likes': 750
       }
     },
     'likes-reels': {
